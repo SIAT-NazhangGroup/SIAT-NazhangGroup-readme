@@ -60,12 +60,12 @@
 |------|------|----------|----------|
 | [BA-T1-wall-lumen-seg](https://github.com/SIAT-NazhangGroup/BA-T1-wall-lumen-seg) | 基底动脉 T1 加权像血管壁/管腔自动分割（CBAM-PlaqueSegNet，2D 切片分割 + 3D 重建） | Python | [🤗 HF](https://huggingface.co/SIAT-NazhangGroup/BA-T1-wall-lumen-seg) |
 | [plaque-morph-radio](https://github.com/SIAT-NazhangGroup/plaque-morph-radio) | 颅内动脉粥样硬化斑块 2D/3D 形态学与影像组学特征提取工具集（含 RR 重构比计算） | Jupyter Notebook | — |
+| [Tumor-Habitat-Analysis-BreastCancer](https://github.com/SIAT-NazhangGroup/Tumor-Habitat-Analysis-BreastCancer) | 乳腺癌 DCE-MRI 肿瘤生境分析 + 良恶性分类流水线（TIC 提取 → habitat 聚类 → 影像组学 → Monte Carlo LASSO + 多模型分类） | Python / Jupyter Notebook | — |
 
 ### 内部仓库
 
 | 仓库 | 简介 | 可见性 |
 |------|------|--------|
-| [Tumor-Habitat-Analysis-BreastCancer](https://github.com/SIAT-NazhangGroup/Tumor-Habitat-Analysis-BreastCancer) | 乳腺癌 DCE-MRI 肿瘤生境分析 + 良恶性分类流水线（TIC 提取 → habitat 聚类 → 影像组学 → Monte Carlo LASSO + 多模型分类） | Private |
 | SIAT-NazhangGroup-readme | 本仓库：组织介绍与 README 规范 | Private |
 
 ### Hugging Face 仓库
